@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: learn-github-webhooks
 run-name: ${{ github.actor }} is learning webhooks
 on: 
   repository_dispatch
